@@ -1,4 +1,4 @@
-https://github.com/simantchaudhari/keylogger#🛡️ Python Keylogger with Telegram Bot Logging
+https://github.com/simantchaudhari/keylogger#KEYLOGGER
 
 For Educational & Authorized Security Testing Only
 
@@ -7,7 +7,7 @@ Use this only on systems you own or have explicit written permission to test.
 
 💀
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ⚠️ Legal Disclaimer
 
