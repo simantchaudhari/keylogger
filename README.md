@@ -7,7 +7,7 @@ Use this only on systems you own or have explicit written permission to test.
 
 💀
 
-![alt text](image-1.png)
+image.png
 
 ⚠️ Legal Disclaimer
 
