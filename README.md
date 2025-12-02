@@ -7,7 +7,7 @@ Use this only on systems you own or have explicit written permission to test.
 
 💀
 
-![alt text](<Screenshot From 2025-12-02 19-15-15.png>)
+/home/simant/Pictures/Screenshots/image.png
 
 ⚠️ Legal Disclaimer
 
