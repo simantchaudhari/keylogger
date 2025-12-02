@@ -7,7 +7,7 @@ Use this only on systems you own or have explicit written permission to test.
 
 💀
 
-/home/simant/Pictures/Screenshots/image.png
+image.png
 
 ⚠️ Legal Disclaimer
 
